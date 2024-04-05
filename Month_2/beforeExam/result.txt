@@ -1,0 +1,6 @@
+Country: Surxondaryo
+Population: 331 million
+Language: English
+Area: 9.83 square kilometers
+Capital: Termiz
+

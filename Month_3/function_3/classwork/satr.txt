@@ -1,0 +1,6 @@
+Azizbek 27.05.1998 
+Barselona qachon yutadi 5 : 0 ga Realni
+stop working 200
+SummaDigits = 48
+SummaNumbers = 2235
+SummaNumbers = 2283

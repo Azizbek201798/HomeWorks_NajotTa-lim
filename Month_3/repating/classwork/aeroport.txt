@@ -1,0 +1,1000 @@
+1,Japura Airport,ID,$8025.91
+2,Zaraza Airport,VE,$3376.78
+3,Arapiraca Airport,BR,$7120.24
+4,General Rafael Buelna International Airport,MX,$206.74
+5,Herrera Airport,DO,$105.03
+6,Creech Air Force Base,US,$5007.31
+7,Taitung Airport,TW,$1677.74
+8,Samarkand Airport,UZ,$8182.17
+9,Council Bluffs Municipal Airport,US,$7967.98
+10,Golovin Airport,US,$9010.49
+11,Southern Cross Airport,AU,$683.50
+12,Fua'amotu International Airport,TO,$2135.65
+13,Santa Genoveva Airport,BR,$9230.53
+14,Eneabba Airport,AU,$7550.60
+15,Gobabis Airport,NA,$676.21
+16,El Embrujo Airport,CO,$3020.05
+17,Kayes Dag Dag Airport,ML,$9814.92
+18,Jinhae Airbase/Airport (G-813/K-10),KR,$146.38
+19,Comodoro Pierrestegui Airport,AR,$4690.05
+20,Roxas Airport,PH,$9714.05
+21,Groote Eylandt Airport,AU,$5871.62
+22,Shahroud Airport,IR,$9431.24
+23,Sullivan County Airport,US,$5333.10
+24,Tinian International Airport,MP,$8686.36
+25,Storm Lake Municipal Airport,US,$2177.99
+26,Atyrau Airport,KZ,$7089.48
+27,Billund Airport,DK,$8105.61
+28,Arkalyk North Airport,KZ,$8860.40
+29,Danilo Atienza Air Base,PH,$3361.81
+30,Malta International Airport,MT,$8377.45
+31,Maharana Pratap Airport,IN,$8623.58
+32,Rouyn Noranda Airport,CA,$9608.45
+33,Tangalooma Airport,AU,$621.61
+34,Earl Henry Airport,US,$708.88
+35,Yola Airport,NG,$1687.72
+36,Red Deer Regional Airport,CA,$3385.68
+37,Kalamazoo Battle Creek International Airport,US,$1117.90
+38,Sopu Airport,PG,$8850.56
+39,Cairns International Airport,AU,$631.12
+40,Fort Simpson Airport,CA,$8286.68
+41,Marechal Rondon Airport,BR,$797.99
+42,Jorge E. Gonzalez Torres Airport,CO,$6732.48
+43,Canberra International Airport,AU,$6673.52
+44,DГјsseldorf Airport,DE,$2502.52
+45,Raroia Airport,PF,$6694.41
+46,Arorae Island Airport,KI,$7304.72
+47,Kushiro Airport,JP,$610.45
+48,Essen Mulheim Airport,DE,$140.51
+49,Orlando Executive Airport,US,$1342.08
+50,Deniliquin Airport,AU,$1834.87
+51,Orcas Island Airport,US,$2878.67
+52,Port Augusta Airport,AU,$5632.33
+53,King Khaled Air Base,SA,$1182.49
+54,South Arkansas Regional At Goodwin Field,US,$1699.62
+55,Palo Verde Airport,MX,$8541.04
+56,Valdez Pioneer Field,US,$8836.67
+57,Jos Orno Imsula Airport,ID,$8195.79
+58,Whitsunday Island Airport,AU,$9513.68
+59,Big Bay Seaplane Base,CA,$9372.79
+60,Thimarafushi Airport,MV,$4020.44
+61,Tepoe Airstrip,SR,$988.80
+62,Karluk Lake Seaplane Base,US,$2128.31
+63,Mitchell Plateau Airport,AU,$5391.37
+64,Regional de MaringГЎ - SГ­lvio Nane Junior Airport,BR,$8447.88
+65,Saravane Airport,LA,$5041.12
+66,Taloyoak Airport,CA,$9505.32
+67,Stord Airport,NO,$5129.36
+68,Lutsk Airport,UA,$9774.42
+69,Konge Airport,PG,$3575.63
+70,Andavadoaka Airport,MG,$4859.37
+71,Tulum Naval Air Station,MX,$7264.47
+72,Xavantina Airport,BR,$5341.55
+73,Kindamba Airport,CG,$5315.79
+74,Sanandaj Airport,IR,$8257.25
+75,Rzhevka Airport,RU,$8874.02
+76,Puerto Rico Airport,CO,$4071.91
+77,Ras Al Khaimah International Airport,AE,$9206.67
+78,Noyabrsk Airport,RU,$8538.86
+79,Burlington International Airport,US,$2215.29
+80,ClarksvilleвЂ“Montgomery County Regional Airport,US,$5760.97
+81,Singleton Airport,AU,$8200.70
+82,Zabreh Ostrava Airport,CZ,$9138.98
+83,Mason County Airport,US,$9600.42
+84,Bou Saada Airport,DZ,$9010.74
+85,Feramin Airport,PG,$5007.05
+86,Campo Grande Airport,BR,$9867.72
+87,Emden Airport,DE,$3876.64
+88,Vigo Airport,ES,$286.77
+89,Bermuda Dunes Airport,US,$8704.86
+90,Malindi Airport,KE,$2185.31
+91,Zhangjiakou Ningyuan Airport,CN,$1605.77
+92,Bahrain International Airport,BH,$3942.63
+93,Erume Airport,PG,$4757.80
+94,Zhaotong Airport,CN,$7901.69
+95,Asosa Airport,ET,$7614.62
+96,Pescara International Airport,IT,$5356.34
+97,Ramsar Airport,IR,$4932.92
+98,Fuma Airport,PG,$9070.54
+99,Rizhao Shanzihe Airport,CN,$4405.49
+100,TSTC Waco Airport,US,$903.57
+101,La Florida Airport,CL,$5057.59
+102,Nueva Loja Airport,EC,$2775.08
+103,Warukin Airport,ID,$1033.35
+104,Quonset State Airport,US,$1334.57
+105,Wellington International Airport,NZ,$5248.16
+106,Roxas Airport,PH,$1024.60
+107,Stara Zagora Airport,BG,$1579.70
+108,Cox's Bazar Airport,BD,$5055.32
+109,Kempegowda International Airport,IN,$6996.96
+110,Resolute Bay Airport,CA,$9520.11
+111,Mzuzu Airport,MW,$5565.97
+112,Ie Jima Airport,JP,$9582.90
+113,Nanyuki Airport,KE,$8893.68
+114,Papa Stour Airport,GB,$1188.12
+115,Termas de RГ­o Hondo international Airport,AR,$3768.28
+116,Changsha Huanghua International Airport,CN,$8421.60
+117,Geladi Airport,ET,$6926.15
+118,Bratsk Airport,RU,$3146.08
+119,Maquinchao Airport,AR,$2618.89
+120,Milyakburra Airport,AU,$6727.45
+121,Iosco County Airport,US,$1317.74
+122,Libo Airport,CN,$5140.58
+123,Marsa Brega Airport,LY,$134.78
+124,Norwich International Airport,GB,$6141.09
+125,Roy Hurd Memorial Airport,US,$1106.07
+126,General Francisco Javier Mina International Airport,MX,$8531.34
+127,Murray Field,US,$5805.45
+128,Sinop Airport,TR,$949.29
+129,Roy Hurd Memorial Airport,US,$7295.33
+130,Arusha Airport,TZ,$5521.69
+131,Inukjuak Airport,CA,$7697.16
+132,General Rivadeneira Airport,EC,$5082.83
+133,Yeerqiang Airport,CN,$4403.71
+134,Port Elizabeth Airport,ZA,$5580.19
+135,Richards-Gebaur Air Force Base,US,$3983.36
+136,Brussels Airport,BE,$9120.18
+137,Olga Bay Seaplane Base,US,$520.75
+138,TaвЂ™if Regional Airport,SA,$3393.37
+139,Hengyang Nanyue Airport,CN,$869.27
+140,Dubuque Regional Airport,US,$7412.48
+141,Minlaton Airport,AU,$6072.33
+142,Quince Air Base,PE,$7828.94
+143,Vannes-Meucon Airport,FR,$805.56
+144,Bram Fischer International Airport,ZA,$6802.04
+145,La Tuque Airport,CA,$9034.04
+146,Monastir Habib Bourguiba International Airport,TN,$7104.54
+147,Rockhampton Airport,AU,$817.83
+148,Tiruchirapally Civil Airport Airport,IN,$6332.34
+149,Vestmannaeyjar Airport,IS,$5205.00
+150,Caloundra Airport,AU,$5649.67
+151,Graciosa Airport,PT,$976.18
+152,Nadym Airport,RU,$1836.48
+153,Ted Stevens Anchorage International Airport,US,$359.31
+154,Bonn-Hangelar Airport,DE,$1076.76
+155,Lowe AHP (Fort Rucker) Heliport,US,$6831.46
+156,Mysore Airport,IN,$5572.10
+157,Gibb River Airport,AU,$3528.26
+158,Mattala Rajapaksa International Airport,LK,$599.95
+159,Middletown Regional Airport,US,$778.74
+160,Putumayo Airport,EC,$2783.11
+161,Atizapan De Zaragoza Airport,MX,$6827.66
+162,Rabi Island Airport,FJ,$6551.44
+163,Ambilobe Airport,MG,$6366.17
+164,Alejandro Velasco Astete International Airport,PE,$4755.28
+165,Tunoshna Airport,RU,$2661.59
+166,Coolah Airport,AU,$76.75
+167,Tongliao Airport,CN,$4643.74
+168,Schenck Field,US,$8404.65
+169,Sugimanuru Airport,ID,$4117.55
+170,Memmingen Allgau Airport,DE,$3218.34
+171,Eastern Slopes Regional Airport,US,$101.19
+172,Karonga Airport,MW,$4314.70
+173,Ileg Airport,PG,$1548.26
+174,Xingning Airport,CN,$3070.43
+175,Besalampy Airport,MG,$5262.15
+176,Cox Field,US,$945.25
+177,El Embrujo Airport,CO,$2573.00
+178,Sambava Airport,MG,$4572.68
+179,Big Mountain Airport,US,$4319.24
+180,Bhadrapur Airport,NP,$6587.27
+181,Andre Maggi Airport,BR,$288.87
+182,Skive Airport,DK,$2191.11
+183,H H Coffield Regional Airport,US,$249.18
+184,Paris-Le Bourget Airport,FR,$9124.60
+185,Bolzano Airport,IT,$1623.24
+186,Nnamdi Azikiwe International Airport,NG,$8329.93
+187,Khmelnytskyi Airport,UA,$1940.95
+188,Minvoul Airport,GA,$4661.55
+189,Fianarantsoa Airport,MG,$2392.98
+190,Abeche Airport,TD,$205.28
+191,Ivano-Frankivsk International Airport,UA,$3827.55
+192,Tsile Tsile Airport,PG,$7289.68
+193,Sedona Airport,US,$9053.03
+194,Yenkis(Yankisa) Airport,PG,$6967.58
+195,Kearney Regional Airport,US,$8960.18
+196,Andavadoaka Airport,MG,$4248.46
+197,Koolburra Airport,AU,$3575.73
+198,Yancheng Airport,CN,$5391.22
+199,Luderitz Airport,NA,$2459.48
+200,Copper Center 2 Airport,US,$8187.66
+201,San Juan Airport,DO,$3986.59
+202,Konduz Airport,AF,$3658.54
+203,Cholet Le Pontreau Airport,FR,$3953.78
+204,Manistee Co Blacker Airport,US,$8788.79
+205,Black Tickle Airport,CA,$5491.91
+206,El Trompillo Airport,BO,$3687.23
+207,Ramon Airport,IL,$1515.67
+208,Robinson River Airport,AU,$4212.91
+209,Zamperini Field,US,$5168.99
+210,Majeed Bin Abdulaziz Airport,SA,$6500.32
+211,Yerington Municipal Airport,US,$6246.51
+212,Hjaltabakki Airport,IS,$4085.86
+213,Sacheon Air Base/Airport,KR,$2254.33
+214,Benito Salas Airport,CO,$7883.92
+215,Astrakhan Airport,RU,$8715.96
+216,Professor Urbano Ernesto Stumpf Airport,BR,$1692.05
+217,Providenciales Airport,TC,$8771.28
+218,Quince Air Base,PE,$3027.33
+219,Stewart International Airport,US,$7196.66
+220,Bislig Airport,PH,$2278.54
+221,San Vito De Java Airport,CR,$1036.47
+222,Punta Chivato Airport,MX,$7560.78
+223,Monastir Habib Bourguiba International Airport,TN,$4799.20
+224,Abeid Amani Karume International Airport,TZ,$3433.07
+225,Billy Mitchell Airport,US,$7556.76
+226,Nyac Airport,US,$8125.41
+227,Neyveli Airport,IN,$6203.41
+228,Lansdowne Airport,AU,$1783.93
+229,Taichung Airport,TW,$3082.80
+230,Tarempa Airport,ID,$9561.87
+231,Charlotte Amalie Harbor Seaplane Base,VI,$4550.30
+232,M'Boki Airport,CF,$3434.82
+233,Chanute Martin Johnson Airport,US,$8977.98
+234,Tumut Airport,AU,$9022.01
+235,Maramag Airport,PH,$1614.57
+236,Rokeby Airport,AU,$9330.80
+237,Senanga Airport,ZM,$185.71
+238,Mayaguana Airport,BS,$699.08
+239,San Cristobal de las Casas Airport,MX,$5621.84
+240,Prefeito Doutor JoГЈo Silva Filho Airport,BR,$7477.35
+241,BДѓneasa International Airport,RO,$8001.85
+242,Asapa Airport,PG,$295.18
+243,Nashik Airport,IN,$561.95
+244,Mineral Wells Airport,US,$4398.26
+245,Newark Liberty International Airport,US,$5390.82
+246,Janakpur Airport,NP,$7229.88
+247,George Best Belfast City Airport,GB,$5681.13
+248,Sir Seretse Khama International Airport,BW,$3349.18
+249,Roshchino International Airport,RU,$1503.39
+250,Nashik Airport,IN,$6477.45
+251,Yalata Mission Airport,AU,$7725.78
+252,Siguiri Airport,GN,$2597.28
+253,Ontario Municipal Airport,US,$2520.43
+254,Kochi Airport (й«зџҐз©єжёЇ),JP,$2260.79
+255,Gerald R. Ford International Airport,US,$6534.54
+256,Sassandra Airport,CI,$498.91
+257,Wright-Patterson Air Force Base,US,$1328.16
+258,Tte. Julio Gallardo Airport,CL,$3322.36
+259,Murray Field,US,$1083.09
+260,Gothenburg City Airport,SE,$2951.32
+261,Ayapel Airport,CO,$1148.83
+262,Castaway Island Seaplane Base,FJ,$8498.75
+263,Boone County Airport,US,$5301.92
+264,Sibisa Airport,ID,$1382.52
+265,Amalfi Airport,CO,$5583.64
+266,Telluride Regional Airport,US,$2041.99
+267,Sentani International Airport,ID,$1073.54
+268,Kipnuk Airport,US,$5089.09
+269,Forest City Municipal Airport,US,$3024.69
+270,Frankfurt-Hahn Airport,DE,$321.92
+271,Mount Pleasant Airport,US,$3298.64
+272,AnnobГіn Airport,GQ,$3169.62
+273,East Hampton Airport,US,$6377.30
+274,Chandalar Lake Airport,US,$7015.29
+275,Jacksonville International Airport,US,$7408.34
+276,Vinh Long Airfield,VN,$4149.52
+277,Flamingo International Airport,BQ,$3063.24
+278,Circle Hot Springs Airport,US,$9122.90
+279,Cut Bank International Airport,US,$6131.17
+280,U-Tapao International Airport,TH,$3192.24
+281,Olyokminsk Airport,RU,$9093.15
+282,Mount Magnet Airport,AU,$425.41
+283,Tuzla International Airport,BA,$842.26
+284,Hamid Karzai International Airport,AF,$2105.33
+285,Cacoal Airport,BR,$6809.22
+286,Klemtu Water Aerodrome,CA,$9311.18
+287,TrГЄs Passos Airport,BR,$5188.19
+288,Nekemte Airport,ET,$3186.44
+289,Akieni Airport,GA,$600.47
+290,Narsaq Heliport,GL,$2836.39
+291,Longnan Chengzhou Airport,CN,$9600.86
+292,Chandigarh Airport,IN,$1432.40
+293,Puerto La Victoria Airport,PY,$1591.67
+294,Kissimmee Gateway Airport,US,$1239.44
+295,Rangiroa Airport,PF,$3078.26
+296,Atsugi Naval Air Facility,JP,$9504.47
+297,Shinyanga Airport,TZ,$1112.24
+298,Dnipropetrovsk International Airport,UA,$3626.30
+299,M'Bigou Airport,GA,$9152.69
+300,Gyumri Shirak Airport,AM,$7619.14
+301,Darnley Island Airport,AU,$3761.95
+302,Christchurch International Airport,NZ,$2392.81
+303,Corrientes Airport,AR,$3362.83
+304,Bryansk Airport,RU,$5036.53
+305,Chehalis Centralia Airport,US,$8451.00
+306,Garissa Airport,KE,$5677.59
+307,Balimo Airport,PG,$4793.11
+308,Travis Air Force Base,US,$6016.58
+309,Fazenda Vassoural Airport,BR,$8187.79
+310,Ostend-Bruges International Airport,BE,$4656.15
+311,Lava Falls Heliport,US,$3662.58
+312,ManicorГ© Airport,BR,$9252.87
+313,Merritt Island Airport,US,$8206.51
+314,Taipei Songshan Airport,TW,$6231.00
+315,Goma International Airport,CD,$1394.03
+316,Omkalai Airport,PG,$6337.17
+317,Candala Airport,SO,$9131.17
+318,Jodhpur Airport,IN,$9169.00
+319,Dibba Airport,OM,$4503.68
+320,Whistler/Green Lake Water Aerodrome,CA,$7056.29
+321,Ballalae Airport,SB,$9414.53
+322,Texarkana Regional Webb Field,US,$1924.53
+323,Decorah Municipal Airport,US,$2910.90
+324,Baramita Airport,GY,$3747.96
+325,Del Caribe Santiago MariГ±o International Airport,VE,$4143.94
+326,Awassa Airport,ET,$1639.67
+327,Wabush Airport,CA,$3162.40
+328,Antsalova Airport,MG,$9039.35
+329,Hong Kong International Airport,HK,$8689.54
+330,Taltheilei Narrows Airport,CA,$5322.71
+331,Maiduguri International Airport,NG,$4010.26
+332,Esperadinha Airport,CV,$6784.56
+333,Moulay Ali Cherif Airport,MA,$8932.22
+334,Beihai Airport,CN,$5514.42
+335,Innsbruck Airport,AT,$4346.25
+336,Sary-Arka Airport,KZ,$4309.05
+337,Tatalina LRRS Airport,US,$5217.72
+338,Tokunoshima Airport,JP,$5041.70
+339,Humberside Airport,GB,$1123.22
+340,MГ©lio Viana Airport,BR,$9257.72
+341,Westray Airport,GB,$4331.47
+342,Kalgoorlie Boulder Airport,AU,$5252.70
+343,Foothills Regional Airport,US,$4061.40
+344,Prentice Airport,US,$4511.62
+345,Voronezh International Airport,RU,$9812.37
+346,Petawawa Airport,CA,$5660.24
+347,LenГ§Гіis Paulista Airport,BR,$4523.42
+348,Moki Airport,PG,$2907.54
+349,Tokoroa Airfield,NZ,$4334.52
+350,Sacramento Airport,BR,$1708.42
+351,Saratov Central Airport,RU,$4641.25
+352,Luena Airport,AO,$330.02
+353,Mount Full Stop Airport,AU,$4448.62
+354,Orang Airport,KP,$2120.50
+355,Cacoal Airport,BR,$9320.26
+356,Vanrook Station Airport,AU,$8253.52
+357,Durham Tees Valley Airport,GB,$3888.87
+358,Urgun Airport,AF,$7829.92
+359,Fort Smith Airport,CA,$4899.55
+360,Kilkenny Airport,IE,$2656.91
+361,Spartanburg Downtown Memorial Airport,US,$8923.39
+362,Mustique Airport,VC,$7110.56
+363,Lugano Airport,CH,$6198.04
+364,Telefomin Airport,PG,$5993.65
+365,Hughes Airport,US,$5166.67
+366,Port Moresby Jacksons International Airport,PG,$6284.79
+367,San Jose Airport,PH,$832.97
+368,Broken Bow Municipal Airport,US,$3270.84
+369,Nusatupe Airport,SB,$2820.56
+370,Mueda Airport,MZ,$207.69
+371,Rincon De Los Sauces Airport,AR,$3548.51
+372,Alberto Delgado Airport,CU,$3039.54
+373,Ventspils International Airport,LV,$7744.62
+374,Base de AviaГ§ГЈo de TaubatГ© Airport,BR,$3890.28
+375,Municipal de Linares Airport,CL,$1214.19
+376,Sawyer International Airport,US,$3913.12
+377,Upala Airport,CR,$8124.22
+378,Funafuti International Airport,TV,$1736.38
+379,Antonio Nery Juarbe Pol Airport,PR,$9102.75
+380,Wau Airport,SS,$5061.32
+381,Franz Josef Aerodrome,NZ,$7547.41
+382,Bathpalathang Airport,BT,$2715.71
+383,Gurupi Airport,BR,$5365.43
+384,Tamale Airport,GH,$9224.42
+385,Arenal Airport,CR,$2398.89
+386,El Mirador Airport,CL,$4130.43
+387,Hobart International Airport,AU,$3268.03
+388,Phanom Sarakham Airport,TH,$4061.01
+389,El Troncal Airport,CO,$9010.68
+390,Kulusuk Airport,GL,$5827.66
+391,Mulka Airport,AU,$2745.87
+392,Cherrabun Airport,AU,$9191.65
+393,Sir Seewoosagur Ramgoolam International Airport,MU,$8014.99
+394,BahГ­a Negra Airport,PY,$4228.73
+395,Mecheria Airport,DZ,$1310.97
+396,Heathlands Airport,AU,$1536.43
+397,Tanah Grogot Airport,ID,$7656.89
+398,MГ©ribel Altiport,FR,$6464.24
+399,Bamu Airport,PG,$9200.17
+400,Waukon Municipal Airport,US,$9097.05
+401,Zwara Airport,LY,$8824.24
+402,Laurinburg Maxton Airport,US,$2778.45
+403,Penticton Airport,CA,$7648.58
+404,Daugavpils Intrenational Airport,LV,$9984.09
+405,Roanne-Renaison Airport,FR,$2954.96
+406,Novo Progresso Airport,BR,$4925.33
+407,Eisenach-Kindel Airport,DE,$6217.90
+408,Bou Saada Airport,DZ,$7824.06
+409,Dunsmuir Muni-Mott Airport,US,$7840.40
+410,Crotone Airport,IT,$4011.83
+411,Malevo Airport,BG,$7526.64
+412,Kasabonika Airport,CA,$4410.92
+413,Samos Airport,GR,$5147.38
+414,Tamworth Airport,AU,$1778.03
+415,Г–lgii Airport,MN,$8155.29
+416,Moshi Airport,TZ,$2755.75
+417,"Foggia ""Gino Lisa"" Airport",IT,$1322.67
+418,Avu Avu Airport,SB,$1027.82
+419,Vanguardia Airport,CO,$8310.70
+420,"Dewitt Field,Old Town Municipal Airport",US,$8968.25
+421,Dimbokro Airport,CI,$2386.88
+422,Sungai Pakning Bengkalis Airport,ID,$9326.59
+423,Dori Airport,BF,$2608.86
+424,Flagstaff Pulliam Airport,US,$7696.02
+425,BrГёnnГёysund Airport,NO,$589.51
+426,Pompeu Airport,BR,$4335.71
+427,Kuantan Airport,MY,$801.01
+428,Panguilemo Airport,CL,$2902.95
+429,Mc Cook Ben Nelson Regional Airport,US,$2511.02
+430,Е iauliai International Airport,LT,$3554.74
+431,Narrogin Airport,AU,$6112.16
+432,Bata Airport,GQ,$2547.88
+433,Sarh Airport,TD,$5947.55
+434,Nuku Airport,PG,$2527.76
+435,Waspam Airport,NI,$592.03
+436,Coles County Memorial Airport,US,$9734.48
+437,Windorah Airport,AU,$7142.31
+438,Namibe Airport,AO,$348.26
+439,Port Walter Seaplane Base,US,$9537.13
+440,Tabuk Airport,SA,$4321.10
+441,Pescara International Airport,IT,$125.01
+442,Ellsworth Air Force Base,US,$1031.69
+443,Larnaca International Airport,CY,$2799.66
+444,Samangoky Airport,MG,$8134.63
+445,Cape Romanzof LRRS Airport,US,$4621.59
+446,Ust-Ilimsk Airport,RU,$9085.35
+447,Ladd AAF Airfield,US,$2981.34
+448,Kindamba Airport,CG,$5124.19
+449,Lyon Saint-ExupГ©ry Airport,FR,$2988.26
+450,Sendai Airport,JP,$9062.82
+451,Komsomolsk-on-Amur Airport,RU,$3299.43
+452,Shillong Airport,IN,$6201.86
+453,Ruhengeri Airport,RW,$7392.37
+454,Rio Amazonas Airport,EC,$8446.66
+455,Nelson Airport,NZ,$6036.18
+456,Port of Poulsbo Marina Moorage Seaplane Base,US,$7368.24
+457,Overberg Airport,ZA,$468.52
+458,Coldfoot Airport,US,$3882.62
+459,"Гrsta-Volda Airport, Hovden",NO,$6445.47
+460,Saenz PeГ±a Airport,AR,$5700.32
+461,Kabwum,PG,$9524.61
+462,Zunyi Xinzhou Airport,CN,$1690.90
+463,Copper Center 2 Airport,US,$2455.32
+464,Lac La Biche Airport,CA,$7169.68
+465,Amedee Army Air Field,US,$721.46
+466,Virgin Gorda Airport,VG,$92.08
+467,Argyle Downs Airport,AU,$7397.35
+468,Ogoki Post Airport,CA,$7669.19
+469,Suai Airport,TL,$4261.55
+470,AlmerГ­a International Airport,ES,$6833.79
+471,Porto Cheli Airport,GR,$2454.98
+472,Mangochi Airport,MW,$6406.04
+473,Kitava Airport,PG,$4666.28
+474,Roebourne Airport,AU,$8119.58
+475,Sam Mbakwe International Airport,NG,$653.60
+476,Donaueschingen-Villingen Airport,DE,$6597.07
+477,Bogashevo Airport,RU,$9024.73
+478,Punta Colorada Airport,MX,$2247.21
+479,Mekele Airport,ET,$4663.93
+480,Ramata Airport,SB,$4313.90
+481,Franklin Municipal-John Beverly Rose Airport,US,$252.05
+482,Wanaka Airport,NZ,$1832.12
+483,Fort Scott Municipal Airport,US,$5466.05
+484,Metlakatla Seaplane Base,US,$4137.94
+485,Jacksonville Executive at Craig Airport,US,$6954.01
+486,Lukla Airport,NP,$6312.56
+487,Batouri Airport,CM,$2323.42
+488,Sibi Airport,PK,$5120.46
+489,Millington-Memphis Airport,US,$4207.03
+490,Jomo Kenyatta International Airport,KE,$4774.16
+491,Codazzi Airport,CO,$3095.86
+492,Parkes Airport,AU,$1578.94
+493,Kon Airport,TL,$8827.79
+494,Copenhagen Kastrup Airport,DK,$7318.53
+495,Cataratas International Airport,BR,$323.29
+496,Henry County Airport,US,$7917.03
+497,Hattiesburg Laurel Regional Airport,US,$513.58
+498,Oulu Airport,FI,$8648.02
+499,Skwentna Airport,US,$9871.24
+500,Quepos Managua Airport,CR,$9988.64
+501,Maniitsoq Airport,GL,$5042.87
+502,Santa BГЎrbara del Zulia Airport,VE,$4529.69
+503,Timmins/Victor M. Power,CA,$1328.51
+504,Bangor International Airport,US,$5258.35
+505,El Palomar Airport,AR,$6164.36
+506,CaГ±al Bajo Carlos - Hott Siebert Airport,CL,$4493.72
+507,Stawell Airport,AU,$3576.77
+508,Bethel Seaplane Base,US,$411.28
+509,Baindoung Airport,PG,$5460.88
+510,Xingtai Dalian Airport,CN,$854.13
+511,Ramon Air Base,IL,$1658.37
+512,Bendigo Airport,AU,$9448.75
+513,Hermanos Ameijeiras Airport,CU,$4491.86
+514,North Central State Airport,US,$8231.04
+515,Al Asad Air Base,IQ,$3032.97
+516,Saidpur Airport,BD,$6565.81
+517,University Oxford Airport,US,$5453.91
+518,Northeastern Regional Airport,US,$3219.72
+519,Palmarito Airport,VE,$710.91
+520,Muko Muko Airport,ID,$1079.84
+521,Nhon Co Airfield,VN,$292.41
+522,Ararat Airport,AU,$8030.67
+523,Blackwater Airport,AU,$2483.75
+524,Skiathos Island National Airport,GR,$7360.31
+525,Belaga Airport,MY,$2559.25
+526,Hyakuri Airport,JP,$9894.48
+527,Can Tho International Airport,VN,$4614.74
+528,Melbourne Moorabbin Airport,AU,$8743.05
+529,Wollogorang Airport,AU,$7380.91
+530,Useless Loop Airport,AU,$8807.28
+531,Municipal JosГ© Figueiredo Airport,BR,$725.00
+532,Alfonso LГіpez Pumarejo Airport,CO,$5877.05
+533,Mokuti Lodge Airport,NA,$698.03
+534,Viveros Island Airport,PA,$802.72
+535,El Debba Airport,SD,$4711.89
+536,Virac Airport,PH,$8841.20
+537,SkellefteГҐ Airport,SE,$2867.30
+538,Eduardo Falla Solano Airport,CO,$5215.02
+539,Lemoore Naval Air Station (Reeves Field) Airport,US,$9251.25
+540,Kimberley Downs Airport,AU,$7581.30
+541,Waukesha County Airport,US,$2683.67
+542,Comiso Airport,IT,$6601.07
+543,Bilogai-Sugapa Airport,ID,$8335.25
+544,North Battleford Airport,CA,$7105.58
+545,Teniente Rodolfo Marsh Martin Base,AQ,$3824.34
+546,Isle of Man Airport,IM,$2138.90
+547,Dembidollo Airport,ET,$2295.95
+548,Major Brigadeiro Trompowsky Airport,BR,$6842.02
+549,Ust-Ilimsk Airport,RU,$1741.75
+550,MГЎrio Pereira LopesвЂ“SГЈo Carlos Airport,BR,$9224.19
+551,Portland Airport,AU,$2138.15
+552,Waycross Ware County Airport,US,$4978.31
+553,Qazvin Airport,IR,$4314.76
+554,Southampton Airport,GB,$6382.18
+555,Jerez Airport,ES,$6847.09
+556,Kinmen Airport,TW,$9579.53
+557,Sir Seretse Khama International Airport,BW,$6996.34
+558,Eil Airport,SO,$3868.75
+559,Kowanyama Airport,AU,$5234.41
+560,Quaqtaq Airport,CA,$2668.83
+561,Cambridge Dorchester Airport,US,$3840.48
+562,Staniel Cay Airport,BS,$2294.29
+563,Minna Airport,NG,$7685.17
+564,West Bend Municipal Airport,US,$3978.98
+565,Loani Airport,PG,$7274.00
+566,Afonso Pena Airport,BR,$5433.23
+567,Boquira Airport,BR,$7774.35
+568,Cimitarra Airport,CO,$8609.47
+569,Guilin Liangjiang International Airport,CN,$4649.44
+570,Bowling Green Warren County Regional Airport,US,$4599.11
+571,Dori Airport,BF,$6200.25
+572,Piedras Negras International Airport,MX,$7996.27
+573,Toamasina Airport,MG,$2052.46
+574,Sulaco Airport,HN,$2089.61
+575,E. T. Joshua Airport,VC,$4439.39
+576,Sangster International Airport,JM,$7352.34
+577,Langkawi International Airport,MY,$6427.19
+578,Ulanhot Airport,CN,$3384.12
+579,Port Williams Seaplane Base,US,$807.33
+580,Zhanjiang Airport,CN,$9185.10
+581,Abaco I Walker C Airport,BS,$6774.53
+582,Kaiapit Airport,PG,$5087.26
+583,Jiamusi Airport,CN,$9603.45
+584,Bacacheri Airport,BR,$8595.05
+585,Taylor Airport,US,$5767.69
+586,Along Airport,IN,$4721.53
+587,Louisa County Airport/Freeman Field,US,$427.46
+588,Pensacola Naval Air Station/Forrest Sherman Field,US,$6609.93
+589,Arapahoe Municipal Airport,US,$8607.47
+590,Raja Bhoj International Airport,IN,$1990.81
+591,Tengah Air Base,SG,$5169.71
+592,Aleknagik / New Airport,US,$5583.34
+593,Manuel MГЎrquez de LeГіn International Airport,MX,$1065.09
+594,Stevens Point Municipal Airport,US,$6585.69
+595,Fazenda SГЈo Francisco Airport,BR,$6194.89
+596,Galesburg Municipal Airport,US,$2764.49
+597,Lady Franklin Point Airport,CA,$3669.84
+598,Buenos Aires Airport,CR,$3393.85
+599,Begumpet Airport,IN,$9085.59
+600,Hermannsburg Airport,AU,$9074.36
+601,Gambell Airport,US,$9429.13
+602,Easton State Airport,US,$5880.99
+603,Presidente Itamar Franco Airport,BR,$7035.82
+604,Malpensa International Airport,IT,$6985.41
+605,Noatak Airport,US,$3870.02
+606,Bardera Airport,SO,$6794.00
+607,Negarbo(Negabo) Airport,PG,$1987.92
+608,Tengah Air Base,SG,$8711.57
+609,Miraflores Airport,CO,$6742.80
+610,Colombo Ratmalana Airport,LK,$5236.77
+611,Sarzana-Luni Air Base,IT,$5957.20
+612,Nauru International Airport,NR,$7978.61
+613,Oksibil Airport,ID,$9286.43
+614,Leme Airport,BR,$7224.70
+615,Karasburg Airport,NA,$3517.33
+616,Ben Gurion International Airport,IL,$9833.56
+617,Rivers Airport,CA,$1050.45
+618,JГ©rГ©mie Airport,HT,$3260.19
+619,Aishalton Airport,GY,$741.49
+620,Ta'izz International Airport,YE,$8396.67
+621,Key Field,US,$332.24
+622,Mosteiros Airport,CV,$1035.65
+623,Waverney Airport,AU,$8205.85
+624,Sulayel Airport,SA,$676.75
+625,Kaitaia Airport,NZ,$5581.24
+626,Perry Stokes Airport,US,$4313.62
+627,Miskolc Airport,HU,$5893.07
+628,Maripasoula Airport,GF,$3459.00
+629,Taplejung Airport,NP,$2384.99
+630,Alxa Right Banner Badanjilin Airport,CN,$317.44
+631,El Tuqui Airport,CL,$7093.20
+632,Ljubljana JoЕѕe PuДЌnik Airport,SI,$397.25
+633,Tiom Airport,ID,$405.06
+634,Arlington Municipal Airport,US,$4452.23
+635,Andi Jemma Airport,ID,$9224.71
+636,Nanwalek Airport,US,$8566.63
+637,Diori Hamani International Airport,NE,$7154.79
+638,Leonora Airport,AU,$3215.41
+639,Astypalaia Airport,GR,$1546.49
+640,Yamoussoukro Airport,CI,$9864.09
+641,Apataki Airport,PF,$3239.69
+642,Cat Lake Airport,CA,$5710.52
+643,Al Asad Air Base,IQ,$2799.04
+644,Qinhuangdao Beidaihe Airport,CN,$5491.07
+645,Baita International Airport,CN,$7131.05
+646,Sultan Abdul Aziz Shah International Airport,MY,$2891.54
+647,VГЎclav Havel Airport Prague,CZ,$6134.22
+648,Cherry Capital Airport,US,$2538.71
+649,Lins Airport,BR,$2937.49
+650,Mvuu Camp Airport,MW,$953.59
+651,Jipijapa Airport,EC,$2749.51
+652,Saskylakh Airport,RU,$8987.73
+653,Friedman Memorial Airport,US,$6774.08
+654,Diebougou Airport,BF,$3129.59
+655,Santa Cruz del Quiche Airport,GT,$1474.83
+656,Bantry Aerodrome,IE,$4236.79
+657,Rand Airport,ZA,$3018.84
+658,Yinchuan Hedong International Airport,CN,$6837.37
+659,Julius Nyerere International Airport,TZ,$4557.20
+660,Brevig Mission Airport,US,$4501.52
+661,Matsu Beigan Airport,TW,$4176.31
+662,Kiryat Shmona Airport,IL,$6034.24
+663,Licenciado Miguel de la Madrid Airport,MX,$6191.98
+664,Dallas Executive Airport,US,$4086.88
+665,Pendopo Airport,ID,$1337.64
+666,Flughafen MГјnchen-Riem,DE,$3256.95
+667,Ono-i-Lau Airport,FJ,$7467.61
+668,Albany International Airport,US,$5931.68
+669,Kericho Airport,KE,$1151.48
+670,Bentota River Waterdrome,LK,$6214.24
+671,St Catherine International Airport,EG,$5788.71
+672,Reao Airport,PF,$7197.81
+673,GГ¤llivare Airport,SE,$3014.59
+674,Conklin (Leismer) Airport,CA,$7893.34
+675,Lajes Airport,PT,$1753.49
+676,False Island Seaplane Base,US,$1522.86
+677,SliaДЌ Airport,SK,$9387.36
+678,Metz-Nancy-Lorraine Airport,FR,$8077.79
+679,Agra Airport,IN,$7379.60
+680,Kangra Airport,IN,$3245.59
+681,Blosser Municipal Airport,US,$7202.33
+682,Yakutat Airport,US,$938.07
+683,Marshall Army Air Field,US,$6425.05
+684,Abeid Amani Karume International Airport,TZ,$1978.22
+685,Viru Harbour Airstrip,SB,$636.49
+686,Chos Malal Airport,AR,$543.96
+687,Moultrie Municipal Airport,US,$2118.11
+688,Stockholm Skavsta Airport,SE,$6764.89
+689,Fredericton Airport,CA,$7792.83
+690,Wilwal International Airport,ET,$2866.54
+691,Lannion-CГґte de Granit Airport,FR,$8475.47
+692,LГЎzaro CГЎrdenas Airport,MX,$4441.25
+693,Kufra Airport,LY,$5886.59
+694,KЕЌchi RyЕЌma Airport,JP,$6408.42
+695,Naracoorte Airport,AU,$5729.80
+696,Cherry Capital Airport,US,$853.27
+697,Sadiq Abubakar III International Airport,NG,$2658.45
+698,Wilcannia Airport,AU,$7807.45
+699,"Sandefjord Airport, Torp",NO,$3889.08
+700,Craiova Airport,RO,$9933.94
+701,Levelock Airport,US,$1778.64
+702,Cherrabun Airport,AU,$6548.79
+703,Mokuti Lodge Airport,NA,$7452.57
+704,Rurenabaque Airport,BO,$500.98
+705,Kadhdhoo Airport,MV,$3202.82
+706,Yevlakh Airport,AZ,$4888.03
+707,Cherokee County Airport,US,$6735.54
+708,Smolensk North Airport,RU,$3526.21
+709,Cochrane Airport,CA,$6398.74
+710,Kherson International Airport,UA,$7542.62
+711,Sadah Airport,YE,$2139.30
+712,Kishangarh Airport,IN,$6019.26
+713,Peretola Airport,IT,$7081.49
+714,Suki Airport,PG,$1592.18
+715,George Airport,ZA,$1559.31
+716,Summerside Airport,CA,$372.66
+717,Waca Airport,ET,$5712.35
+718,Wabo Airport,PG,$3686.34
+719,Malam Airport,PG,$7135.57
+720,Allah Valley Airport,PH,$5398.86
+721,Pine Ridge Airport,US,$4824.52
+722,Munbil Airport,PG,$2791.32
+723,Makini Airport,PG,$5055.47
+724,Gods River Airport,CA,$8624.96
+725,Lotus Vale Airport,AU,$2285.00
+726,Prof. Eribelto Manoel Reino State Airport,BR,$2807.33
+727,El Alamein International Airport,EG,$4314.45
+728,Eastern WV Regional Airport/Shepherd Field,US,$6334.30
+729,Jalaluddin Airport,ID,$3874.23
+730,Livengood Camp Airport,US,$1764.62
+731,La Florida Airport,CL,$6523.29
+732,Manley Hot Springs Airport,US,$5770.17
+733,Amarais Airport,BR,$1972.03
+734,Baranof Warm Springs Float and Seaplane Base,US,$4143.48
+735,Cattle Creek Airport,AU,$3953.73
+736,Bellingham International Airport,US,$8771.49
+737,Bob Baker Memorial Airport,US,$374.75
+738,Гrland Airport,NO,$4084.79
+739,Zenata вЂ“ Messali El Hadj Airport,DZ,$151.42
+740,Douglas-Charles Airport,DM,$7192.57
+741,Roben Hood Airport,US,$2432.22
+742,Changde Airport,CN,$5120.74
+743,Minhas Air Base,PK,$835.51
+744,Essen Mulheim Airport,DE,$7177.62
+745,Coulter Field,US,$5321.44
+746,Wairoa Airport,NZ,$8467.71
+747,Open Bay Airport,PG,$634.90
+748,Ellisras Matimba Airport,ZA,$4985.47
+749,Ewer Airport,ID,$7351.22
+750,South Molle Island Helipad,AU,$7401.51
+751,Clovis Municipal Airport,US,$4101.80
+752,Naha Airport,ID,$1676.91
+753,Chichen Itza International Airport,MX,$7256.87
+754,Tambolaka Airport,ID,$9552.04
+755,Cangamba Airport,AO,$7634.97
+756,Ignatyevo Airport,RU,$428.39
+757,Exmouth Airport,AU,$4155.19
+758,Mananjary Airport,MG,$6530.02
+759,Willows Glenn County Airport,US,$5656.84
+760,Nanning Wuxu Airport,CN,$3872.05
+761,Round Lake (Weagamow Lake) Airport,CA,$4515.77
+762,Mikonos Airport,GR,$634.09
+763,San Pedro Airport,BZ,$6793.29
+764,Sveg Airport,SE,$7762.35
+765,CapitГЎn Av. Selin Zeitun Lopez Airport,BO,$8309.21
+766,Circle Hot Springs Airport,US,$5015.08
+767,Kaohsiung International Airport,TW,$1504.56
+768,Tolmachevo Airport,RU,$2057.02
+769,Khoka Moya Airport,ZA,$8906.19
+770,Monterrey Airport,CO,$7976.86
+771,Colonsay Airstrip,GB,$9934.66
+772,Sebba Airport,BF,$2885.80
+773,OR Tambo International Airport,ZA,$3240.24
+774,Alderney Airport,GG,$2068.04
+775,Ati Airport,TD,$4202.89
+776,Tabatinga Airport,BR,$4678.24
+777,Vredendal Airport,ZA,$9276.17
+778,Taharoa Aerodrome,NZ,$6260.22
+779,Chulman Airport,RU,$6802.04
+780,Sultan Mahmud Airport,MY,$2585.13
+781,Victoria Reservoir Seaplane Base,LK,$6537.68
+782,OR Tambo International Airport,ZA,$9850.68
+783,Altay Air Base,CN,$1711.63
+784,Ngala Airport,ZA,$6620.27
+785,Nhon Co Airfield,VN,$2893.04
+786,Wheeler Army Airfield,US,$2498.05
+787,Port Graham Airport,US,$2946.15
+788,New Halfa Airport,SD,$3662.11
+789,Kungim Airport,PG,$4532.61
+790,Southwest Washington Regional Airport,US,$497.38
+791,Lifou Airport,NC,$8496.90
+792,Eniwetok Airport,MH,$8790.86
+793,Kazi Nazrul Islam Airport,IN,$6686.00
+794,Grozny North Airport,RU,$6325.60
+795,Ponta Grossa Airport - Comandante Antonio Amilton Beraldo,BR,$2497.79
+796,Mushaf Air Base,PK,$696.14
+797,Mzuzu Airport,MW,$5255.97
+798,Dansville Municipal Airport,US,$7015.88
+799,Teniente Av. Jorge Henrich Arauz Airport,BO,$7719.95
+800,Hamad International Airport,QA,$6762.01
+801,Groennedal Heliport,GL,$8468.16
+802,Taganrog Yuzhny Airport,RU,$9387.67
+803,Thicket Portage Airport,CA,$8795.99
+804,Wedau Airport,PG,$1414.25
+805,West Houston Airport,US,$179.59
+806,Prominent Hill Airport,AU,$9061.76
+807,Jasper County Airport-Bell Field,US,$1656.88
+808,Villacoublay-VГ©lizy (BA 107) Air Base,FR,$9275.56
+809,Palo Verde Airport,MX,$7321.34
+810,Iki Airport,JP,$3244.55
+811,Stephenville Clark Regional Airport,US,$4242.10
+812,Sochi International Airport,RU,$954.39
+813,Dunhuang Airport,CN,$7096.22
+814,Mirassol Airport,BR,$219.17
+815,Pandie Pandie Airport,AU,$765.17
+816,Debrecen International Airport,HU,$2695.27
+817,Chena Hot Springs Airport,US,$2438.65
+818,Oyem Airport,GA,$2306.69
+819,Rundu Airport,NA,$7320.89
+820,Defiance Memorial Airport,US,$3222.54
+821,Lancang Jingmai Airport,CN,$1623.00
+822,Harrisburg-Raleigh Airport,US,$5032.87
+823,Santa Rosa International Airport,EC,$7762.60
+824,Narvik Framnes Airport,NO,$5713.59
+825,Encanta MoГ§a Airport,BR,$5815.00
+826,Willoughby Lost Nation Municipal Airport,US,$5780.23
+827,Sydney Bankstown Airport,AU,$8929.91
+828,Marseille Provence Airport,FR,$9405.13
+829,Franklin County Airport,US,$7793.17
+830,Waterkloof Air Force Base,ZA,$5268.50
+831,Qiqihar Sanjiazi Airport,CN,$1387.36
+832,Besalampy Airport,MG,$5948.63
+833,La Macaza / Mont-Tremblant International Inc Airport,CA,$9263.24
+834,Tenente Lund Pressoto Airport,BR,$7997.59
+835,Grosseto Air Base,IT,$6576.26
+836,Mount Hotham Airport,AU,$7387.18
+837,Rajkot Airport,IN,$4874.05
+838,Illesheim Air Base,DE,$6308.16
+839,Ban Huoeisay Airport,LA,$5583.02
+840,Roanne-Renaison Airport,FR,$3369.40
+841,Excursion Inlet Seaplane Base,US,$8362.72
+842,Harriet Alexander Field,US,$2021.95
+843,Paris-Orly Airport,FR,$8954.96
+844,Ono-i-Lau Airport,FJ,$1583.66
+845,Glacier Creek Airport,US,$9848.31
+846,Lancang Jingmai Airport,CN,$8834.62
+847,RAF Benson,GB,$7916.76
+848,Clinton Regional Airport,US,$6044.55
+849,Arathusa Safari Lodge Airport,ZA,$9036.63
+850,Sanandaj Airport,IR,$8774.33
+851,Barra del Colorado Airport,CR,$83.92
+852,Prominent Hill Airport,AU,$8585.03
+853,Matsu Nangan Airport,TW,$9947.20
+854,Diori Hamani International Airport,NE,$6048.07
+855,Cerro Largo International Airport,UY,$3671.29
+856,Taos Regional Airport,US,$9944.68
+857,Cape Gloucester Airport,PG,$6529.75
+858,Dourados Airport,BR,$8956.63
+859,Palungtar Airport,NP,$7330.87
+860,Solwesi Airport,ZM,$5869.81
+861,Cuito Cuanavale Airport,AO,$8620.71
+862,Conroe-North Houston Regional Airport,US,$3248.01
+863,Kengtung Airport,MM,$4370.54
+864,Wonenara Airport,PG,$3357.99
+865,Le Puy-Loudes Airport,FR,$5256.83
+866,Boone County Airport,US,$5101.70
+867,Futuna Airport,VU,$6872.01
+868,Namlea Airport,ID,$7721.67
+869,Ljubljana JoЕѕe PuДЌnik Airport,SI,$5754.35
+870,"Pattimura Airport, Ambon",ID,$1609.17
+871,Barrie-Orillia (Lake Simcoe Regional Airport),CA,$1351.00
+872,Mount Aue Airport,PG,$7050.55
+873,Ratnagiri Airport,IN,$4217.58
+874,Kilkenny Airport,IE,$5731.50
+875,South Cariboo Region / 108 Mile Airport,CA,$786.87
+876,Juanjui Airport,PE,$629.38
+877,Hutchinson Municipal Airport,US,$715.37
+878,Yarmouth Airport,CA,$9416.92
+879,Balimo Airport,PG,$7881.81
+880,Atkamba Airport,PG,$3712.81
+881,Gamboola Airport,AU,$2940.02
+882,Batajnica Air Base,RS,$5045.57
+883,Kira Airport,PG,$1155.61
+884,Capital City Airport,US,$5849.66
+885,Kent International Airport,GB,$482.61
+886,Urubupunga Airport,BR,$5412.16
+887,Sedona Airport,US,$7878.38
+888,Nogales International Airport,US,$3379.54
+889,Al Ain International Airport,AE,$3620.37
+890,Harry Stern Airport,US,$1775.49
+891,Keflavik International Airport,IS,$3874.37
+892,Wajir Airport,KE,$523.23
+893,Islas Malvinas Airport,AR,$252.51
+894,Jackson County Reynolds Field,US,$4124.09
+895,Rupsi India Airport,IN,$967.95
+896,Bhurban Heliport,PK,$2659.21
+897,MГ©ndez Airport,EC,$9510.38
+898,Olyokminsk Airport,RU,$7548.40
+899,Page Field,US,$7236.73
+900,Lowcountry Regional Airport,US,$1684.48
+901,Battle Mountain Airport,US,$9641.53
+902,Poplarville Pearl River County Airport,US,$3156.74
+903,Kasaan Seaplane Base,US,$2280.93
+904,Zabol Airport,IR,$3954.35
+905,Prentice Airport,US,$5623.73
+906,El Bagre Airport,CO,$3645.09
+907,Francisco Vilela do Amaral Airport,BR,$6332.06
+908,Marathon Airport,CA,$6631.75
+909,Kangiqsujuaq (Wakeham Bay) Airport,CA,$4133.03
+910,Alluitsup Paa Heliport,GL,$4083.23
+911,Bui-Dama Airport,FJ,$6071.34
+912,Bluefields Airport,NI,$3007.81
+913,Koolatah Airport,AU,$5720.84
+914,TriesteвЂ“Friuli Venezia Giulia Airport,IT,$2037.60
+915,Kamaran Airport,YE,$9867.55
+916,Fort McMurray / Mildred Lake Airport,CA,$7560.37
+917,Baker Lake Airport,CA,$522.97
+918,Narrandera Airport,AU,$2811.29
+919,Arapiraca Airport,BR,$3241.49
+920,Fort Frances Municipal Airport,CA,$9834.17
+921,Mutiara Airport,ID,$1073.44
+922,Mostyn Airport,MY,$2852.36
+923,Sapmanga Airport,PG,$7182.32
+924,Harriet Alexander Field,US,$1709.41
+925,Kzyl-Orda Southwest Airport,KZ,$9703.97
+926,Nachingwea Airport,TZ,$4114.78
+927,Ercan International Airport,CY,$4622.22
+928,Cable Airport,US,$9587.41
+929,Umiat Airport,US,$7086.58
+930,RAF Upper Heyford,GB,$9848.37
+931,Sabi Sabi Airport,ZA,$2613.76
+932,Malekolon Airport,PG,$4565.81
+933,Tambolaka Airport,ID,$3034.95
+934,Saint-Brieuc-Armor Airport,FR,$5065.74
+935,Mahendranagar Airport,NP,$6829.94
+936,Tshipise Airport,ZA,$3448.76
+937,Ingolstadt Manching Airport,DE,$6376.44
+938,Sanfebagar Airport,NP,$1521.27
+939,Chimore Airport,BO,$6605.09
+940,Hayward Executive Airport,US,$3735.34
+941,Huacaraje Airport,BO,$8876.42
+942,Juan Santamaria International Airport,CR,$8544.13
+943,Williamsport Regional Airport,US,$2926.27
+944,Baruun Urt Airport,MN,$6268.91
+945,Bam Airport,IR,$2190.17
+946,Birmingham-Shuttlesworth International Airport,US,$2557.32
+947,Piarco International Airport,TT,$2518.81
+948,Coronel Altino Machado de Oliveira Airport,BR,$6657.86
+949,Eugenio Maria De Hostos Airport,PR,$8608.20
+950,Carta Airport,HN,$5880.87
+951,Steamboat Bay Seaplane Base,US,$5671.54
+952,Helsinki Vantaa Airport,FI,$1108.22
+953,El Alto International Airport,BO,$400.06
+954,Eagle Lake Airport,US,$5269.17
+955,Pembina Municipal Airport,US,$9310.81
+956,Tres Arroyos Airport,AR,$7893.25
+957,Bellona/Anua Airport,SB,$9123.32
+958,Ningbo Lishe International Airport,CN,$5595.52
+959,Southeast Iowa Regional Airport,US,$2782.67
+960,Charles de Gaulle International Airport,FR,$4630.78
+961,Maewo-Naone Airport,VU,$7058.70
+962,Uray Airport,RU,$8568.03
+963,Dumpu Airport,PG,$147.87
+964,Falcon Field,US,$5284.57
+965,Dawei Airport,MM,$9983.36
+966,Jim Hamilton L.B. Owens Airport,US,$9638.62
+967,CumanГЎ (Antonio JosГ© de Sucre) Airport,VE,$2024.81
+968,Orange-Caritat (BA 115) Air Base,FR,$6781.08
+969,Puerto Princesa Airport,PH,$3571.28
+970,Kingfisher Lake Airport,CA,$9419.51
+971,Northeastern Regional Airport,US,$5842.58
+972,Dolbeau St Felicien Airport,CA,$718.15
+973,Saint-Yan Airport,FR,$3875.73
+974,Imam Khomeini International Airport,IR,$9583.92
+975,Fderik Airport,MR,$5772.79
+976,Ulukhaktok Holman Airport,CA,$7213.06
+977,Namrole Airport,ID,$2018.82
+978,Tunta Airport,CD,$2260.60
+979,Long Akah Airport,MY,$2973.67
+980,Arso Airport,ID,$2034.28
+981,Tingwon Airport,PG,$7545.19
+982,Bambu Airport,PG,$6984.31
+983,Гrland Airport,NO,$1386.87
+984,"Sandefjord Airport, Torp",NO,$9854.32
+985,Emden Airport,DE,$1536.15
+986,Dakhla Airport,EG,$3118.56
+987,Dupage Airport,US,$417.94
+988,Costa Esmeralda Airport,NI,$6318.37
+989,Inca Manco Capac International Airport,PE,$5817.86
+990,Flugplatz GГјttin / RГјgen,DE,$2421.39
+991,Westerly State Airport,US,$1117.41
+992,Dolpa Airport,NP,$928.57
+993,Puerto Escondido International Airport,MX,$3155.56
+994,Webster City Municipal Airport,US,$4662.10
+995,Francisco Vilela do Amaral Airport,BR,$8546.82
+996,ChambГ©ry-Savoie Airport,FR,$8214.03
+997,Andros Town Airport,BS,$4392.31
+998,Kimberley Downs Airport,AU,$5395.99
+999,Port Said Airport,EG,$4076.61
+1000,Zambezi Airport,ZM,$8074.43
