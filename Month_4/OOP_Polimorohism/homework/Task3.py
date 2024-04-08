@@ -27,6 +27,10 @@ class Futbolchi:
         
         return self
 
+    def __gt__(self,a):
+        if isinstance(a,Futbolchi):
+            return self.salary < a.salary
+
 futbolchi1 = Futbolchi("Messi",1560,2000000,"Barselona")
 
 # 1) Using example : __str__    
@@ -44,4 +48,7 @@ futbolchi1 = Futbolchi("Messi",1560,2000000,"Barselona")
 # futbolchi1 -= 2000
 # print(futbolchi1)
 
-# 3) Using example : 
+# 4) Using example : __sizeof__
+
+futbolchi2 = Futbolchi("Nodir",5,1500000,"Surxon")
+print(futbolchi1 > futbolchi2)
