@@ -50,5 +50,5 @@ futbolchi1 = Futbolchi("Messi",1560,2000000,"Barselona")
 
 # 4) Using example : __sizeof__
 
-futbolchi2 = Futbolchi("Nodir",5,1500000,"Surxon")
-print(futbolchi1 > futbolchi2)
+# futbolchi2 = Futbolchi("Nodir",5,1500000,"Surxon")
+# print(futbolchi1 > futbolchi2)

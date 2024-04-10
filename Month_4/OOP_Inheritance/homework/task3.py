@@ -30,10 +30,6 @@ def set_info():
 def sort_by_price(a : list):
     return sorted(a,key = lambda x : x.narxi)
 
-def show_info(year : int,tur : str, printer : Printer):
-    if printer.yil == year and  printer.turi == tur:
-        return printer
-
 # Task - 1 : Whileda Printer obyektini listga kiritish:
 
 # printers,op = [],1
@@ -69,6 +65,13 @@ def show_info(year : int,tur : str, printer : Printer):
 #             Printer("Artel   ",100,250," Lazerli",1998),
 #             Printer("Siemens ",900,1500,"3 talik",2000),
 #             Printer("Win     ",330,550," Rangli",2005)]
-# for x in printers:
-#    res = show_info(2024,"Rangli",x)
-#    res.get_info()
+
+# tur = input("Tur : ")
+# year = int(input("Year : "))
+
+# def show_info(year : int,tur : str,ls : list):
+#     for x in ls:
+#         if x.yil == year and  x.turi == tur:
+#             x.get_info()
+
+# show_info(year,tur,printers)

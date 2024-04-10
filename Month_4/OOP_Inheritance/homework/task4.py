@@ -3,8 +3,8 @@
 #  Kitob nomli class berilgan. Ushbu classning elementlari quyidagicha: 
 # 1) Kitob nomi; 2) Kitob mualliflari; 3) Kitob narxi; 4) Kitob nashriyoti;
 # Bu classda kiritish va chiqarish methodlarini ishlating. 
-# 5ta obyektlar ichidan Kitob nashriyoti Alfavitning â€˜Aâ€™ harfidan â€˜
-# Hâ€™gacha boâ€™lgan harflar bilan boshlanadigan obyektlar haqida maâ€™lumot chiqaring.
+# 5ta obyektlar ichidan Kitob nashriyoti Alfavitning A harfidan
+# H gacha bo'lgan harflar bilan boshlanadigan obyektlar haqida ma'lumot chiqaring.
 
 import os
 os.system("clear")

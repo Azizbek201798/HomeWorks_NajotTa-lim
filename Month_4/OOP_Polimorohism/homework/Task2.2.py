@@ -2,6 +2,8 @@
  
 # Method override bo'yicha 2 ixtiyoriy dastur yozing (class nomi ixtiyoriy) 
 
+# SECOND EXAMPLE:
+
 import os
 os.system("clear")
 

@@ -1,10 +1,10 @@
 # Topshiriq_5 => DONE by Azizbek
 
 #  Kompyuter nomli class berilgan. Ushbu classning elementlari quyidagicha: 
-# 1) Kompyuter nomi; 2) Kompyuter RAMi; 3) Kompyuter narxi; 
+# 1) Kompyuter nomi; 2) Kompyuter RAMI; 3) Kompyuter narxi; 
 # 4) Kompyuter protsessori;
 # Bu classda kiritish va chiqarish methodlarini ishlating. 4ta obyektlar 
-# ichidan RAMi 4dan koâ€™p va 16dan kichik obyektlar haqida maâ€™lumot chiqaring.
+# ichidan RAMi 4dan ko'p va 16dan kichik obyektlar haqida ma'lumot chiqaring.
 import os
 os.system("clear")
 
@@ -25,7 +25,6 @@ class Kompyuter:
     def get_info(self):
         print(f"Nomi : {self.nomi}; RAM : {self.RAM}; Narxi : {self.narxi}; Protsessori : {self.protsessori}")
 
-
 # TASK - 1: Kiritish va chiqarish metodlarini ishlatish:
 
 # op,kompyuterlar = 1,[]
@@ -40,18 +39,13 @@ class Kompyuter:
 # for x in kompyuterlar:
 #     x.get_info()
 
-# TASK - 2: 4ta obyektlar ichidan RAMi 4dan koâ€™p va 16dan kichik obyektlar haqida maâ€™lumot chiqaring.
+# TASK - 2: 4ta obyektlar ichidan RAMi 4dan ko'p va 16dan kichik obyektlar haqida ma'lumot chiqaring.
 
-kopmyuterlar = [Kompyuter("Acer  ",8,360,"CPU"),
-                Kompyuter("HP    ",16,1000,"CPU"),
-                Kompyuter("Victus",32,1500,"CPU"),
-                Kompyuter("MAC 1 ",2,500,"CPU")]
+# kopmyuterlar = [Kompyuter("Acer  ",8,360,"CPU"),
+#                 Kompyuter("HP    ",16,1000,"CPU"),
+#                 Kompyuter("Victus",32,1500,"CPU"),
+#                 Kompyuter("MAC 1 ",2,500,"CPU")]
 
-for x in kopmyuterlar:
-    if x.RAM >= 4 and x.RAM <= 16:
-        x.get_info()
-
-
-
-
-
+# for x in kopmyuterlar:
+#     if x.RAM >= 4 and x.RAM <= 16:
+#         x.get_info()
