@@ -8,5 +8,3 @@ def is_it_letter(s):
         return True
     else :
         return False
-
-# Leo

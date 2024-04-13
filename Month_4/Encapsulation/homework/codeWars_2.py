@@ -17,3 +17,5 @@ def validate_word(word):
         return False
 
 print(validate_word(word))
+
+# client
