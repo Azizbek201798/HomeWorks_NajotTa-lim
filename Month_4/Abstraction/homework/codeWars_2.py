@@ -2,6 +2,8 @@ import math
 import os
 os.system("clear")
 
+# CodeWars Degree 7
+
 def cooking_time(needed_power, minutes, seconds, power) -> str:
     total = math.ceil((int(needed_power[:-1]) / int(power[:-1])) * (minutes * 60 + seconds))
     return f"{(total // 60)} minutes {(total) % 60} seconds"
