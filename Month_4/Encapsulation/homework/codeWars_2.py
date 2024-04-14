@@ -19,3 +19,4 @@ def validate_word(word):
 print(validate_word(word))
 
 # client
+# A
