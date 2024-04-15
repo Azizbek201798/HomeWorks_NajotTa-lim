@@ -21,8 +21,6 @@
 
 # print(d1.get_laqab())
 
-
-
 # class Ota:
 #     def __init__(self):
 #         self.__name = "Ilhom"

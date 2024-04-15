@@ -1,8 +1,6 @@
-
 from random import choice
-
-# natija = choice(['salom','kim','nima','qachom'])
-# print(natija)
+import os
+os.system("clear")
 
 class Weapon:
     def __init__(self, turi, name):
@@ -27,7 +25,7 @@ class Weapon:
 
 
 class Player:
-    def __init__(self, types, nick, qurol:Weapon):
+    def __init__(self, types, nick, qurol : Weapon):
         self.types = types
         self.nick = nick
         self.qurol = qurol
@@ -86,21 +84,3 @@ while True:
     a = choice(lst)
     lst.remove(a)
     a.otish_weapon(lst[0])        
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
