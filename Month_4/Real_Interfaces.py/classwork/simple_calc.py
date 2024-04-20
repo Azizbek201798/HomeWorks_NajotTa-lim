@@ -36,7 +36,7 @@ class calc(QMainWindow):
             border-width:       3px;
             border-style:       dotted;""")
         self.lnt1.setFont(QFont("Consolas",22))
-        self.lnt1.setAlignment(Qt.AlignCenter)
+        self.lnt1.setAlignment(Qt.AlignRight)
 
         lb2 = QLabel(self)
         lb2.setStyleSheet("""
@@ -68,7 +68,6 @@ class calc(QMainWindow):
             color:              rgb(57,255,20);
             """)
         self.result.setVisible(False)
-        # self.result.setText("Result :")
         self.result.setGeometry(70,250,260,50)
         self.result.setFont(QFont("Times",40))
 

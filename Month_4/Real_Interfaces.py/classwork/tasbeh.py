@@ -12,6 +12,7 @@ class ilova(QMainWindow):
         self.setMinimumSize(300,200)
         self.setWindowTitle("Tasbeh")
         self.setStyleSheet("background-color: rgb(0,0,0)")
+
         self.tablo = QLabel("0",self)
         self.tablo.setFont(QFont("Times New Roman",72))
         self.tablo.setGeometry(50,50,150,100)
@@ -30,7 +31,6 @@ class ilova(QMainWindow):
                 background-color: rgb(255,255,250);
                 border-radius: 25px;
                 border-color: rgb(232,244,140);
-                border-style: solid;
                 border-width: 1px;
                 """)
         self.btn.clicked.connect(self.function)
@@ -63,4 +63,5 @@ if __name__ == "__main__":
     pro = ilova()
     pro.show()
     sys.exit(ap.exec_())
+
     
