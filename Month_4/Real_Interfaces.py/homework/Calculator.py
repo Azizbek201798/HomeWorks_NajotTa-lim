@@ -1,3 +1,9 @@
+# DONE by => Azizbek
+# Task -> CALCULATOR
+
+# Agar codeni run qilganda xatolik bo'lsa pastdagi commentdagi codeni kiriting!
+# unset GTK_PATH
+
 import os
 import sys
 from PyQt5.QtWidgets import *
@@ -269,12 +275,12 @@ class ilova(QMainWindow):
 
     def mult_clicked(self):
         current_text = self.lnt2.text()
-        self.lnt1.setText(current_text + " " + "*")
+        self.lnt1.setText(current_text + "*")
         self.lnt2.clear()
 
     def div_clicked(self):
         current_text = self.lnt2.text()
-        self.lnt1.setText(current_text + " " + "//")
+        self.lnt1.setText(current_text + "/")
         self.lnt2.clear()
 
     def number_clicked(self, number):
@@ -282,7 +288,7 @@ class ilova(QMainWindow):
         self.lnt2.setText(current_text + number)
 
     def calculate_result(self):
-        expression = self.lnt1.text() + " " + self.lnt2.text()
+        expression = self.lnt1.text() + self.lnt2.text()
         try:
             result = eval(expression)
             self.lnt1.setText(expression + " = "+str(result))
@@ -295,4 +301,3 @@ if __name__ == "__main__":
     pro = ilova()
     pro.show()
     sys.exit(app.exec_())
-
