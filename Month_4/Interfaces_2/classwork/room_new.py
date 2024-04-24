@@ -46,3 +46,5 @@ total = 1
 for room in rooms:
     print(f"{total} - xonaning hajmi : {room.Hajm(room)} ga teng")
     total += 1
+
+# unset GTK_PATH

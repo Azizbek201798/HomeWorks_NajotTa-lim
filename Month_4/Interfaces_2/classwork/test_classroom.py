@@ -91,6 +91,7 @@ class dastur(QMainWindow):
         check.setGeometry(650,650,350,50)
         check.setStyleSheet("color: rgb(255,241,255); background-color: rgb(0,125,10);")
         check.setFont(QFont("Poor Richard",24))
+        
         check.clicked.connect(lambda:self.check_test(self.name))
     
     def check_test(self,st):

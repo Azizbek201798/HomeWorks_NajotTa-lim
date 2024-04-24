@@ -7,7 +7,6 @@
 # import sys
 # from PyQt5.QtWidgets import QApplication, QWidget, QLabel, QLineEdit, QPushButton, QVBoxLayout
 
-
 # def calculate_numbers():
 #     expression = line_edit.text()
 #     numbers = [int(num) for num in expression if num.isdigit()]
