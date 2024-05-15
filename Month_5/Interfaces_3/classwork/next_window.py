@@ -50,6 +50,7 @@ class second_window(QMainWindow):
         self.setMaximumSize(800,600)
         self.setMinimumSize(800,600)
         # self.setStyleSheet("background-color:rgb(0,0,255)")
+        
         self.lb1 = QLabel(self)
         self.lb1.setFont(QFont("Calibri",22))
         self.lb1.setStyleSheet("color:rgb(0,0,255)")

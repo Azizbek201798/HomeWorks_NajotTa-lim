@@ -30,7 +30,7 @@ class ilova(QMainWindow):
             border-style:       solid;""")
         phone.setGeometry(185,20,450,910)
 
-        self.lnt1 = QLineEdit(self)
+        self.lnt1 = QLabel(self)
         self.lnt1.resize(350,50)
         self.lnt1.setStyleSheet("""
             background-color:   rgb(0,0,0);
@@ -57,7 +57,7 @@ class ilova(QMainWindow):
             background-color:   rgb(192,192,192);
             color:              rgb(0,0,0);
             border-radius:      45px;
-            border-width:       6px;
+            border-width`:       6px;
             border-style:       solid;""")
         self.C_button.setGeometry(220,400,90,90)
         self.C_button.setFont(QFont("Times New Roman",45))

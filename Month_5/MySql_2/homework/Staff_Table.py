@@ -1,3 +1,5 @@
+# DONE BY AZIZBEK
+
 import os
 import mysql.connector as myc
 os.system("clear")

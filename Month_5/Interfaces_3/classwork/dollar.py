@@ -53,7 +53,6 @@ class ilova(QMainWindow):
         self.ln = QLineEdit(self)
         self.ln.setGeometry(100,200,120,40)
         
-
     # def tap(self):
     #     digit_count = sum(char.isdigit() for char in self.ln.text())
     #     if digit_count < 2:
@@ -66,7 +65,6 @@ class ilova(QMainWindow):
     #     if len(self.ln.text()) < 8:
     #         return False
     #     return True
-
 
 if __name__ == "__main__":
     app = QApplication(sys.argv)

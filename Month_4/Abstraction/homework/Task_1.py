@@ -16,50 +16,48 @@
 
 import os
 from abc import ABC, abstractmethod
-os.system("clear")
 
-class Employee:
-    def __init__(self,Surname : str, Position : str, Salary : int):
-        self.Surname = Surname
-        self.Position = Position
-        self.Salary = Salary
-
+class Employee(ABC):
+    def __init__(self, surname, position, salary):
+        self.surname = surname
+        self.position = position
+        self.salary = salary
+    
     @abstractmethod
-    def EnterpriseByRating(self):
+    def add_salary(self):
         pass
 
-class EnterPrise_Employee(Employee):
-    def __init___(self,Surname : str, Position : str, Salary : int, Rating : int):
-        self.Surname = Surname
-        self.Position = Position
-        self.Salary = Salary
-        self.Rating = Rating
-
-    def EnterpriseByRating(self):
-        if self.Rating >= 60 and self.Rating < 75:
-            self.Salary += self.Salary * 0.2
-        elif self.Rating >= 75 and self.Rating < 90:
-            self.Salary += self.Salary * 0.4
-        elif self.Rating >= 90 and self.Rating <= 100:
-            self.Salary += self.Salary * 0.6
+class Enterprise_employee(Employee):
+    def __init__(self, surname, position, salary, rating):
+        super().__init__(surname, position, salary)
+        self.rating = rating
+    
+    def add_salary(self):
+        if self.rating >= 60 and self.rating < 75:
+            self.salary += self.salary * 0.2
+        elif self.rating >= 75 and self.rating < 90:
+            self.salary += self.salary * 0.4
+        elif self.rating >= 90 and self.rating <= 100:
+            self.salary += self.salary * 0.6
 
     def show_info(self):
-        return f"Surname : {self.Surname}; Position : {self.Position}; Salary : {self.Salary}; Rating : {self.Rating}"
+        return f"Surname : {self.surname}; Position : {self.position}; Salary : {self.salary}; Rating : {self.rating}"
     
-employee_1 = EnterPrise_Employee("Ziyodullayev","CEO",1500)
-employee_2 = EnterPrise_Employee("Almirzayeva","HomeLady",400)
-employee_3 = EnterPrise_Employee("Alisherova","Baby",200)
-employee_4 = EnterPrise_Employee("Amonov","Worker",2000)
-employee_5 = EnterPrise_Employee("Isroilov","Railway",3000)
+employee_1 = Enterprise_employee("Ziyodullayev","CEO",1500,61)
+employee_2 = Enterprise_employee("Almirzayeva","HomeLady",400,77)
+employee_3 = Enterprise_employee("Alisherova","Baby",200,99)
+employee_4 = Enterprise_employee("Amonov","Worker",2000,40)
+employee_5 = Enterprise_employee("Isroilov","Railway",3000,88)
 
-employee_1.EnterpriseByRating()
-employee_2.EnterpriseByRating()
-employee_3.EnterpriseByRating()
-employee_4.EnterpriseByRating()
-employee_5.EnterpriseByRating()
+employees = [employee_1,employee_2,employee_3,employee_4,employee_5]
 
-# employee_1.show_info()
-# employee_2.show_info()
-# employee_3.show_info()
-# employee_4.show_info()
-# employee_5.show_info()
+print("Before : \n")
+for x in employees:
+    print(x.show_info())
+
+for x in employees:
+    x.add_salary()
+
+print("\nAfter : \n")
+for x in employees:
+    print(x.show_info())
