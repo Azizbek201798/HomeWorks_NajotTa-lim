@@ -20,6 +20,7 @@ def translate(lotin_text):
         if i + 1 < len(lotin_text):
             two_char = lotin_text[i:i + 2]
             if two_char in lotin_kril:
+                
                 kril_text += lotin_kril[two_char]
                 skip = 1
                 continue
